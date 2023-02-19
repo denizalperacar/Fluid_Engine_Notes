@@ -12,4 +12,3 @@ _deps
 /out/build/x64-debug
 /out/**
 /.vs/**
-/.vscode/**

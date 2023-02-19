@@ -4,6 +4,8 @@
 #include <cmath>
 #include <vector>
 #include <array>
+#include <EigenBase.h>
+
 
 namespace wave {
   class Wave1D {
@@ -17,7 +19,7 @@ namespace wave {
       Wave1D &wave, double x_min, double x_max,
       int kBufferSize=kBufferSize
     );
-
+    
     Wave1D() = delete;
     Wave1D(
         double x, double dx, 
