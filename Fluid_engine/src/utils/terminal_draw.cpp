@@ -1,6 +1,0 @@
-
-
-
-void drawWave1D() {
-  
-}

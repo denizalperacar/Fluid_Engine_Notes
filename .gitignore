@@ -12,3 +12,5 @@ _deps
 /out/build/x64-debug
 /out/**
 /.vs/**
+Fluid_engine/examples/test_torchlib/detect_cuda_compute_capabilities.cu
+Fluid_engine/examples/test_torchlib/test_libtorch
