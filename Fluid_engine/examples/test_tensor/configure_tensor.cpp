@@ -17,6 +17,6 @@ int main () {
 
   // at::parallel_for
   // do the ray cutting the 3D voxel area.
-  
+  // 
 
 }
